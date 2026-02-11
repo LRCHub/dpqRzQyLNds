@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "花曇り",
+  "base_artist": "佐藤千亜妃",
+  "createdAt": "2026-02-11T18:40:28.490735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花曇り",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/01_花曇り_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花曇り",
+      "artist": "佐藤千亜妃",
+      "has_synced": false,
+      "path": "select/pl_01_花曇り_佐藤千亜妃.txt"
+    }
+  ]
+}
